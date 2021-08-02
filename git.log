@@ -1,0 +1,23 @@
+commit 373ca895e7d74b73b97e0a4b99f6952d72810aeb
+Author: Illia Arzamastsev <illia@LAPTOP-U9B5BA6F.localdomain>
+Date:   Sun Aug 1 23:12:02 2021 -0500
+
+    fourth commit, add makefile
+
+commit b5e023c54f78105f28be9b430f30d949648d52cc
+Author: Illia Arzamastsev <illia@LAPTOP-U9B5BA6F.localdomain>
+Date:   Sun Aug 1 23:10:55 2021 -0500
+
+    third commit, add header file stats.h
+
+commit e37fbb0eb9366c49355acc36bfbf33111888ebaf
+Author: Illia Arzamastsev <illia@LAPTOP-U9B5BA6F.localdomain>
+Date:   Sun Aug 1 23:01:02 2021 -0500
+
+    second commit, add stats.c file
+
+commit 8aca8a483faef9d1edfeb1c7bd5961df1ff06f8c
+Author: Illia Arzamastsev <illia@LAPTOP-U9B5BA6F.localdomain>
+Date:   Sun Aug 1 22:50:06 2021 -0500
+
+    first commit
